@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "compiler-in-rust",
+    "interpreter-in-rust",
+]
